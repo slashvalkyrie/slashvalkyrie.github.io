@@ -10,6 +10,7 @@ body {
 .topnav {
     background-color: rgba(211, 211, 211, 0.212);
     backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
     overflow: hidden;
     padding-left: 10px;
     outline: 1px;
@@ -27,6 +28,7 @@ body {
     padding: 5px;
     background-color: rgba(211, 211, 211, 0.356);
     backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
     overflow: hidden;
     border-radius: 10px;
     max-width: 60%;
