@@ -15,7 +15,7 @@ body {
     padding-left: 10px;
     outline: 1px;
     outline-style: solid;
-    outline-color: rgb(189, 189, 189);
+    outline-color: rgba(255, 255, 255, 0.39);
     position: fixed;
     top: 0;
     z-index: 9999;
@@ -32,7 +32,7 @@ body {
     overflow: hidden;
     border-radius: 10px;
     max-width: 60%;
-    box-shadow: 0 0 0 1pt rgb(189, 189, 189);
+    box-shadow: 0 0 0 1pt rgba(255, 255, 255, 0.39);
     text-align: center;
 }
 
